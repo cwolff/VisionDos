@@ -1,0 +1,2 @@
+link @vsnlink.lnk,vsnmain.exe;
+exebin vsnmainln vniklkvnaneeeei sminvilvaee mvla l                                                                                                                                                                  
